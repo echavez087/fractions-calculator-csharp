@@ -5,12 +5,12 @@ Simple C# console application to make basic operations with fractions string rep
 
 - Solution must be able to run in any version of visual studio 2019.
 
-- If you don't have visual studio installed I advise to download Visual Studio comunity edition from this link: https://visualstudio.microsoft.com/vs/community/
+- If you don't have visual studio installed I advise to download Visual Studio community edition from this link: https://visualstudio.microsoft.com/vs/community/
 
 
 Supported operations: 
 
-Sum (+), Substraction(-), Multiplication( * ), and Division (/)
+Addition (+), Substraction(-), Multiplication( * ), and Division (/)
 
 Only Expressions of Two  operands are supported: 
 
