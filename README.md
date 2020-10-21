@@ -8,11 +8,11 @@ Simple C# console application to make basic operations with fractions string rep
 - If you don't have visual studio installed I advise to download Visual Studio comunity edition from this link: https://visualstudio.microsoft.com/vs/community/
 
 
-Supperted operations: 
+Supported operations: 
 
 Sum (+), Substraction(-), Multiplication( * ), and Division (/)
 
-Only Expressions of Two  operands are suported: 
+Only Expressions of Two  operands are supported: 
 
 [Operand1 (operator) Operand2]
  
